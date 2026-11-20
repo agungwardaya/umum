@@ -1,0 +1,6 @@
+{
+  "name": "HadirScan — Absensi Kamera HP",
+  "description": "Aplikasi absensi berbasis scan QR kamera HP dengan rekap kehadiran, kartu QR anggota, dan ekspor CSV/JSON siap arsip.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
